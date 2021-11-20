@@ -26,7 +26,7 @@ The primary scope of the component is to take an order and print a receipt.
 Charlene decided to open her very own little coffee shop on a busy street corner.
 Being the careful entrepreneur, she decided to start off with a limited offering, with the option to expand her choice of products, as
 business goes.
-####Her Offering
+#####Her Offering
 - Coffee (small, medium, large) 2.50 CHF, 3.00 CHF, 3.50 CHF
 - Bacon Roll 4.50 CHF
 - Freshly squeezed orange juice (0.25l) 3.95 CHF
