@@ -26,7 +26,7 @@ The primary scope of the component is to take an order and print a receipt.
 Charlene decided to open her very own little coffee shop on a busy street corner.
 Being the careful entrepreneur, she decided to start off with a limited offering, with the option to expand her choice of products, as
 business goes.
-#####Her Offering
+##### Her Offering
 - Coffee (small, medium, large) 2.50 CHF, 3.00 CHF, 3.50 CHF
 - Bacon Roll 4.50 CHF
 - Freshly squeezed orange juice (0.25l) 3.95 CHF
@@ -34,11 +34,11 @@ business goes.
 - Extra milk 0.30 CHF
 - Foamed milk 0.50 CHF
 - Special roast coffee 0.90 CHF
-#####Bonus Program
+##### Bonus Program
   Charlene's idea is to attract as many regular‘s as possible to have a steady turnaround.
   She decides to offer a customer stamp card, where every 5th beverage is for free.
   If a customer orders a beverage and a snack, one of the extra's is free. 
-###Assumtions
+### Assumtions
   - Only beverages can have extras.
   - A beverage can have only one extra.
 ##	API
