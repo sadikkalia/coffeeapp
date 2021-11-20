@@ -30,7 +30,7 @@ business goes.
 - Coffee (small, medium, large) 2.50 CHF, 3.00 CHF, 3.50 CHF
 - Bacon Roll 4.50 CHF
 - Freshly squeezed orange juice (0.25l) 3.95 CHF
-  Extras:
+#####  Extras:
 - Extra milk 0.30 CHF
 - Foamed milk 0.50 CHF
 - Special roast coffee 0.90 CHF
